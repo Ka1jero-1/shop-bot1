@@ -5,7 +5,7 @@ from flask import Flask
 from threading import Thread
 
 # --- НАСТРОЙКИ ---
-TOKEN = '9003569350:AAGJ27eWDJcncKYpG8dwDLvg2il9lC-ll1w' # Сюда вставь токен НОВОГО бота (не анонимного!)
+TOKEN = '9003569350:AAEm9E94WMb93ioBOPl1S6SyuG8Uh1kgnos' # Сюда вставь токен НОВОГО бота (не анонимного!)
 ADMIN_ID = 5419168665 # Твой ID, чтобы заказы приходили тебе
 
 # --- КАТАЛОГ ТОВАРОВ ---
